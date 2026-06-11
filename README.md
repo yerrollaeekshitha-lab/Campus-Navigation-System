@@ -219,10 +219,16 @@ Campus-Navigation-System
 
 ---
 
-## 👩‍💻 Project Team
-* Kolavali Sanjana 
-* Yerrolla Eekshitha
-* Padala Anikha
+## 👩‍💻 Team Members
+
+| Name | Roll Number |
+|------|------------|
+| Yerrolla Eekshitha | 2520030615 |
+| Kolavali Sanjana | 2520030614 |
+| Padala Anikha | 2520030613 |
+
+---
+
 
 ---
 
