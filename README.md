@@ -213,22 +213,12 @@ Campus-Navigation-System
 └── README.md
 ```
 
-Display them using:
-
-```markdown
-## Project Output
-
-![Output 1](images/output1.png)
-
-![Output 2](images/output2.png)
-```
-
 ---
 
 ## 👩‍💻 Project Team
-
+* Kolavali Sanjana 
 * Yerrolla Eekshitha
-* Team Members
+* Padala Anikha
 
 ---
 
