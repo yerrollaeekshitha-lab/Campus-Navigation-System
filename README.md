@@ -223,8 +223,8 @@ Campus-Navigation-System
 
 | Name | Roll Number |
 |------|------------|
-| Yerrolla Eekshitha | 2520030615 |
 | Kolavali Sanjana | 2520030614 |
+| Yerrolla Eekshitha | 2520030615 |
 | Padala Anikha | 2520030613 |
 
 ---
