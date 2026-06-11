@@ -54,7 +54,11 @@ Lab
 Admin
 └── Classroom
 ```
+# 🎓 Campus Navigation System
 
+![Campus](https://images.unsplash.com/photo-1562774053-701939374585)
+
+An AI-powered navigation assistant for university campuses.
 ---
 
 ## 🧠 AI Concepts Used
